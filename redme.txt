@@ -12,4 +12,7 @@ Git tracks changes.2222222
 
 7.23gitgitgitgit
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick.
+
+Creating a new branch is quick and simple.777777777
